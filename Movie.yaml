@@ -1,6 +1,16 @@
 # iflix
 # sflix
 payload:
+  - DOMAIN-SUFFIX,embed2.megaxfer.ru
+  - DOMAIN-SUFFIX,www-seq40452.ssl0d.com
+  - DOMAIN-SUFFIX,cdn.streamlare.com
+  - DOMAIN-SUFFIX,larecontent.com
+  - DOMAIN-SUFFIX,www-seq40452.ssl0d.com
+  - DOMAIN-SUFFIX,streamlare.com
+  - DOMAIN-SUFFIX,b-g-eu-1.feetcdn.com
+  - DOMAIN-SUFFIX,cc.1clickcdn.com
+  - DOMAIN-SUFFIX,e-10.dokicloud.one
+  - DOMAIN-SUFFIX,img.sflix.to
   - DOMAIN-SUFFIX,861605430.tapecontent.net
   - DOMAIN-SUFFIX,c-2.dokicloud.one
   - DOMAIN-SUFFIX,s.flix.to
