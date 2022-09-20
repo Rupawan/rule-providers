@@ -1,6 +1,16 @@
 # iflix
 # sflix
 payload:
+  - DOMAIN-SUFFIX,c-10.dokicloud.one
+  - DOMAIN-SUFFIX,c-9.dokicloud.one
+  - DOMAIN-SUFFIX,c-8.dokicloud.one
+  - DOMAIN-SUFFIX,c-7.dokicloud.one
+  - DOMAIN-SUFFIX,c-6.dokicloud.one
+  - DOMAIN-SUFFIX,c-5.dokicloud.one
+  - DOMAIN-SUFFIX,c-3.dokicloud.one
+  - DOMAIN-SUFFIX,dokicloud.one
+  - DOMAIN-SUFFIX,e-9.dokicloud.one
+  - DOMAIN-SUFFIX,dokicloud.one
   - DOMAIN-SUFFIX,sflix.to
   - DOMAIN-SUFFIX,c-1.dokicloud.one
   - DOMAIN-SUFFIX,c-4.dokicloud.one
