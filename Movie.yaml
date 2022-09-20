@@ -1,6 +1,16 @@
 # iflix
 # sflix
 payload:
+  - DOMAIN-SUFFIX,b-g-ca-10.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-9.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-8.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-7.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-6.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-4.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-3.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-2.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-1.feetcdn.com
+  - DOMAIN-SUFFIX,b-g-ca-5.feetcdn.com
   - DOMAIN-SUFFIX,b-g-eu-10.feetcdn.com
   - DOMAIN-SUFFIX,b-g-eu-9.feetcdn.com
   - DOMAIN-SUFFIX,b-g-eu-7.feetcdn.com
