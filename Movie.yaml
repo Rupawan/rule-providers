@@ -1,6 +1,7 @@
 # iflix
 # sflix
 payload:
+  - DOMAIN-SUFFIX,sflix.to
   - DOMAIN-SUFFIX,c-1.dokicloud.one
   - DOMAIN-SUFFIX,c-4.dokicloud.one
   - DOMAIN-SUFFIX,embed2.megaxfer.ru
