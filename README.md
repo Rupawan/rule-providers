@@ -1,3 +1,4 @@
-# rule-providers
+#sfilx
+#flixhq
 
-Rule film: https://github.com/Rupawan/rule-providers/rupawan/Movie.yaml
+https://github.com/Rupawan/rule-providers/blob/rupawan/Movie.yaml
